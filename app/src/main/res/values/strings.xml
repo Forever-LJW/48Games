@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">48小游戏_先行测试版</string>
+    <string name="game_2048">小偶像版2048</string>
+    <string name="synthetic">合成小偶像</string>
+    <string name="about_help">关于/帮助</string>
+    <string name="exchange_background">切换背景</string>
+    <string name="exit">退出</string>
+    <string name="score">SCORE</string>
+    <string name="start_score">0</string>
+    <string name="best_score">BEST</string>
+    <string name="reset">重置</string>
+    <string name="hidden_play">隐藏玩法</string>
+    <string name="help">玩法</string>
+</resources>
